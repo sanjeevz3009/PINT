@@ -1,0 +1,17 @@
+#donate {
+    border-color: #d47233;
+    color: black;
+}
+
+#donate:hover {
+    background-color: #d47233;
+    color: white;
+}
+
+.nav-list {
+    color: black;
+}
+
+.nav-list:hover{
+    color: #d47233;
+}
